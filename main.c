@@ -1,5 +1,5 @@
 #include "monty.h"
-#define "getline"
+#include "getline"
 bus_t bus = {NULL, NULL, NULL, 0};
 /**
 * main - monty code interpreter
